@@ -15,10 +15,13 @@ In this example, the following libraries are used:
 - sys
 
 If selenium library and chrome driver are not installed by default, they can be installed by following codes:
+
 ! pip install selenium
+
 ! apt install chromium-chromedriver
 
 For accessing Twitch APIs, **Client Id** and **Client Secret** are required. To get these values, it is necessary to register in twitch website. More details can be found in this link:
+
 https://dev.twitch.tv/docs/authentication
 
 ## File structure
